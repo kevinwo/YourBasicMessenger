@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sender</key>
+		<string>Dwayne Gibbs</string>
+		<key>time</key>
+		<string>12:30 PM</string>
+		<key>subject</key>
+		<string>Cool movie</string>
+		<key>preview</key>
+		<string>Hey man- you should check out this great flick coming up. I think you&apos;ll really dig it.</string>
+	</dict>
+	<dict>
+		<key>sender</key>
+		<string>Christina Fernandez</string>
+		<key>time</key>
+		<string>2:46 PM</string>
+		<key>subject</key>
+		<string>Lunch tomorrow?</string>
+		<key>preview</key>
+		<string>Let&apos;s get some lunch. Maybe baked salmon?</string>
+	</dict>
+	<dict>
+		<key>sender</key>
+		<string>Cesar Allen</string>
+		<key>time</key>
+		<string>11:01 AM</string>
+		<key>subject</key>
+		<string>Re: Dance lessons</string>
+		<key>preview</key>
+		<string>Your steps the other night were excellent. Next class we&apos;ll work on that turn I showed you.</string>
+	</dict>
+	<dict>
+		<key>sender</key>
+		<string>Lewis Wheeler</string>
+		<key>time</key>
+		<string>5:23 PM</string>
+		<key>subject</key>
+		<string>Cat website</string>
+		<key>preview</key>
+		<string>I&apos;ve got an idea for a cat website that is going to blow your mind.</string>
+	</dict>
+	<dict>
+		<key>sender</key>
+		<string>Sue Guzman</string>
+		<key>time</key>
+		<string>8:45 AM</string>
+		<key>subject</key>
+		<string>Re: Candlestick</string>
+		<key>preview</key>
+		<string>I&apos;m still interested in those candlesticks you&apos;re selling. They truly are one of a kind.</string>
+	</dict>
+	<dict>
+		<key>sender</key>
+		<string>Pamela Burgess</string>
+		<key>time</key>
+		<string>4:34 PM</string>
+		<key>subject</key>
+		<string>Raincheck</string>
+		<key>preview</key>
+		<string>I&apos;m afraid I&apos;ll need to cancel the meeting tomorrow, but we&apos;ll talk on the slopes next week!</string>
+	</dict>
+</array>
+</plist>
